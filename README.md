@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Fluffy-Cookie 
 - 👀 I’m interested in idk small time-pass python projects
 - 🌱 I’m currently learning python
-- 📫 How to reach me kinda weird but its through Lichess id- fluffy_cookie
-- 
 -    Getting Rickrolled isn't that bad afterall
 https://api.github.com/repos/<username>/<reponame>/languages
 <!---
