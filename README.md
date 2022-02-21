@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fluffy-Cookie 
+- 👋 Hi, I’m Fluffy-Cookie 
 - 👀 I’m interested in idk small time-pass python projects
 - 🌱 I’m currently learning python
 -    Getting Rickrolled isn't that bad afterall
